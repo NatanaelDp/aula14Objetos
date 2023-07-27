@@ -1,0 +1,15 @@
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\bin\Debug\net7.0\Aula14Objetos.exe
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\bin\Debug\net7.0\Aula14Objetos.deps.json
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\bin\Debug\net7.0\Aula14Objetos.runtimeconfig.json
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\bin\Debug\net7.0\Aula14Objetos.dll
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\bin\Debug\net7.0\Aula14Objetos.pdb
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\Aula14Objetos.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\Aula14Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\Aula14Objetos.AssemblyInfoInputs.cache
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\Aula14Objetos.AssemblyInfo.cs
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\Aula14Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\Aula14Objetos.dll
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\refint\Aula14Objetos.dll
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\Aula14Objetos.pdb
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\Aula14Objetos.genruntimeconfig.cache
+C:\Users\Public\source\repos\Natanael\Aula14Objetos\Aula14Objetos\obj\Debug\net7.0\ref\Aula14Objetos.dll
